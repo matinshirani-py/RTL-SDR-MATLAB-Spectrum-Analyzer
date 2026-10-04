@@ -331,23 +331,4 @@ Possible future extensions include:
 * Spectrogram customization
 * Support for additional SDR hardware
 
----
 
-## 👨‍💻 Author
-
-**Matin**
-
-Electrical Engineering – Telecommunications
-Isfahan University of Technology
-
----
-
-## 📄 Project Documentation
-
-Additional project documentation is available in the `docs/` directory.
-
----
-
-## 📜 License
-
-This project is intended for educational and academic purposes.
